@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning on backend engineering things, especially in golang
+
 <!--
 **rompi/rompi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
