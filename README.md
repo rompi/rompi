@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rompi</h1>
-<h3 align="center">Sfotware engineer</h3>
+<h3 align="center">Software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rompi&label=Profile%20views&color=0e75b6&style=flat" alt="rompi" /> </p>
 
