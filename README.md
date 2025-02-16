@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rompi" alt="rompi" /></a> </p>
 
 - 🌱 I’m currently learning on backend engineering things
-- 📫 How to reach me: [mail me](mailto:belajar.fadrimerdianto@gmail.com)
+- 📫 How to reach me: [mail me](mailto:work.fadrimerdianto@gmail.com)
 - 😄 Pronouns: rom-pi
 
 <h3 align="left">Languages and Tools:</h3>
